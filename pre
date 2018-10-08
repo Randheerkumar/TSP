@@ -1,0 +1,3 @@
+g++ -o tsp ga.cpp -std=c++11
+
+
